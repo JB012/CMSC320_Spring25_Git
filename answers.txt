@@ -9,3 +9,7 @@ Answer: Healthcare by using patient data to predict when a disease might occur.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing moves code from one branch to another while merging combines a branch to another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Passing the class.
